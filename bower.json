@@ -1,0 +1,26 @@
+{
+  "name": "margincalc",
+  "authors": [
+    "Daniel Jefferson <danieljjefferson@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#~4.6.3",
+    "jquery": "~3.1.0",
+    "angular": "~1.5.8",
+    "materialize": "~0.97.7",
+    "bootstrap": "~3.3.7"
+  }
+}
